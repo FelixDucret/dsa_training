@@ -1,3 +1,5 @@
 googletest/
 DSA_training
 build/
+CMakePresets.json
+dsa_training.code-workspace
